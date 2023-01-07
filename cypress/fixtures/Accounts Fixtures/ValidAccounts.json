@@ -1,0 +1,14 @@
+[
+{
+  "name":"should enter the account",
+  "userName":"standard_user",
+  "password":"secret_sauce",
+  "output":"Products"
+},
+{
+  "name":"the account should have problems(bad products image)",
+  "userName":"problem_user",
+  "password":"secret_sauce",
+  "output":"/static/media/sl-404.168b1cce.jpg"
+}
+]
